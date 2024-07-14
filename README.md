@@ -16,3 +16,5 @@ Fashion Mnist dataset : Fashion-MNIST is a dataset of Zalando's article imagesâ€
 ## Results
 
 ![image](https://github.com/user-attachments/assets/fed7da8a-4167-4443-b77d-98dff0e2a0ca)
+
+These are the results obtained after training for 30 epochs. Upon training for more larger number of epochs, in range of 2000 and higher, we can expect better and clear results similar to original images.
